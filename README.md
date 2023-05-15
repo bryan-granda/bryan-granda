@@ -26,5 +26,5 @@ bryan.a.granda@gmail.com</a></h4>
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/bryan-granda-8585b5255/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<img src="https://icons8.com/icon/5r7axn9IZ0NL/linkedin"></a>
   <div>
