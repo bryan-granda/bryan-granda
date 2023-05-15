@@ -7,7 +7,7 @@ Bryan</a> 🧑🏻</h1>
 <h3 align="center"> 🫴 Check out my Web Portfolio: <a href="https://portfolio-bryan-granda.vercel.app/" target="blank">
 https://portfolio-bryan-granda.vercel.app/</a></h3>
 
-<h4 align="center"> 📧 Reach Out @ *<a href="mailto:bryan.a.granda@gmail.com" target="blank">
+<h4 align="center"> 📧 Reach Out @ <a href="mailto:bryan.a.granda@gmail.com" target="blank">
 bryan.a.granda@gmail.com</a></h4>
 
 <br>
