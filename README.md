@@ -7,11 +7,23 @@ Bryan</a> 🧑🏻</h1>
 <h3 align="center"> 🫴 Check out my Web Porfolio: <a href="https://portfolio-bryan-granda.vercel.app/" target="blank">
 https://portfolio-bryan-granda.vercel.app/</a></h3>
 
+<h4 align="center"> 📧 Reach out @ <a href="bryan.a.granda@gmail.com" target="blank">
+bryan.a.granda@gmail.com</a></h4>
+
 
 - 🛠️ I’m currently working on a social media web app for software developers.
+
 - 🧠 I’m currently learning NodeJS and building my own web server.
+
 - ♻️ I’m looking to collaborate with others on web projects using Github.
+
 - 💭 I’m looking for help with using websockets to create a chatroom.
+
 - 👩‍💻 I'm studying Computer Science at Columbia University.
-- 📧 How to reach me: [bryan.a.granda@gmail.com](bryan.a.granda@gmail.com)
+
 - ⚡ Fun fact: I'm learning to play the electric guitar 🎶 
+
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/bryan-granda-8585b5255/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+  <div>
