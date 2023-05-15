@@ -1,5 +1,5 @@
 # Hello❗ My name is Bryan Granda 🧑🏻
-## I am a React Web Developer
+## I am a React Web Developer based in New York, USA 🇺🇸
 
 - 🛠️ I’m currently working on a social media web app for software developers.
 - 🧠 I’m currently learning NodeJS and building my own web server.
