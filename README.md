@@ -10,6 +10,7 @@ https://portfolio-bryan-granda.vercel.app/</a></h3>
 <h4 align="center"> 📧 Reach out @ <a href="bryan.a.granda@gmail.com" target="blank">
 bryan.a.granda@gmail.com</a></h4>
 
+<br>
 
 - 🛠️ I’m currently working on a social media web app for software developers.
 
