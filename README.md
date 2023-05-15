@@ -1,7 +1,12 @@
-# Hello❗ My name is Bryan Granda 🧑🏻
-## I am a React Web Developer 👨‍🔬  
-🫴 Check out my Web Porfolio: [https://portfolio-bryan-granda.vercel.app/](https://portfolio-bryan-granda.vercel.app/)
-## based in New York, USA 🇺🇸
+<h1 align="center"> Hello❗ I'm <a href="https://github.com/bryan-granda" target="blank">
+Bryan</a> 🧑🏻</h1>
+<h3 align="center"> I am a React Web Developer 👨‍🔬</h3>
+
+<h3 align="center"> based in New York, USA 🇺🇸</h3>
+
+<h3 align="center"> 🫴 Check out my Web Porfolio: <a href="https://portfolio-bryan-granda.vercel.app/" target="blank">
+https://portfolio-bryan-granda.vercel.app/</a></h3>
+
 
 - 🛠️ I’m currently working on a social media web app for software developers.
 - 🧠 I’m currently learning NodeJS and building my own web server.
